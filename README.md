@@ -1,5 +1,8 @@
 # Estimation and Analysis of Slice Propagation Uncertainty in 3D Anatomy Segmentation
+## Paper
+- [Archive Version]()
 
+## Visual Demonstrations
 Our study integrates Uncertainty Quantification (UQ) methods into slice propagation techniques for medical image analysis, aiming to enhance prediction accuracy and reliability with minimal expert supervision. The GIFs provided below serve as a visual representation of this integration, highlighting the critical role of UQ in improving the confidence and accuracy of predictions.
 
 *Inference Starting Point and Propagation from the Annotated Slice:*
@@ -9,12 +12,10 @@ These visual demonstartions allow us to observe how the model's confidence and a
 
 _Purpose of GIFs:_ These GIFs are intended to visually demonstrate the progression of slice propagation enhanced by UQ methods. By observing the propagation process from a slice where the model's confidence is highest, viewers can appreciate the nuanced improvements UQ brings to the reliability and accuracy of segmentation predictions.
 
-Visual Demonstrations:
+UQ-Enhanced Slice Propagation Example 1:
+![](GIFs/DecathSpleen_Vol28.gif)
 
-    UQ-Enhanced Slice Propagation Example 1:
-    ![](GIFs/DecathSpleen_Vol28.gif)
-
-    UQ-Enhanced Slice Propagation Example 2:
-    ![](GIFs/SLiver07_Vol02.gif)
+UQ-Enhanced Slice Propagation Example 2:
+![](GIFs/SLiver07_Vol02.gif)
 
 These visual demonstrations are a vivid illustration of how UQ integration can dynamically improve the trustworthiness and effectiveness of slice propagation techniques. By observing the full sequence, including the critical annotated slice and the variations beyond it, viewers can gain a comprehensive understanding of the nuanced impact of UQ on enhancing model reliability and prediction accuracy in medical image analysis.
