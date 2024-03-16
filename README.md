@@ -20,3 +20,13 @@ The starting point of inference begins at the the anatomy's largest manually ann
 ----------------------------
 
 These visual demonstartions allow us to observe how the model's confidence and accuracy evolve as it moves away from the initial high-confidence point. As the propagation advances, a gradient of uncertainty becomes evident — uncertainty increases and accuracy decreases the further we move from the annotated slice. This dynamic illustrates the inherent challenges of slice propagation and underscores the value of UQ in estimating and understanding these variations.
+
+## Datasets Used
+
+- [**DecathSpleen**](http://medicaldecathlon.com/)
+
+- [**CHAOS**](https://chaos.grand-challenge.org/)
+
+- [**SLiver**](https://sliver07.grand-challenge.org/)
+
+
