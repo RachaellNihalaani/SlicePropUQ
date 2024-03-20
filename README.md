@@ -2,7 +2,7 @@
 Code release is pending and will be made available upon paper acceptance.
 
 ## Paper
-- [Archive Version]()
+- [Archive Version](https://arxiv.org/abs/2403.12290)
 
 ## Visual Demonstrations
 Our study integrates Uncertainty Quantification (UQ) methods into slice propagation techniques for medical image analysis, aiming to enhance prediction accuracy and reliability with minimal expert supervision. The GIFs provided below serve as a visual representation of this integration, highlighting the critical role of UQ in improving the confidence and accuracy of predictions.
